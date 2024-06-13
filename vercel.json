@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://aitable.ai/workbench/$1"
+ }
+  ]
+}
